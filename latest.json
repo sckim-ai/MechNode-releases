@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "- 자동 업데이트 추가 — 새 버전이 있으면 헤더에 버전과 업데이트 배지가 표시되고, 확인 후 설치\n- 안정성·보안 개선\n- 설치본에서 프로젝트 파일 저장이 권한 오류로 거부되던 문제 수정\n- 라이선스 테크 트리 — 설정 › License에서 팩 단위로 구성된 라이선스 맵 확인\n- 창 제목에 앱 버전 표시\n- 화면 서체를 Inter(영문)·맑은 고딕(한글)으로 통일",
+  "pub_date": "2026-10-19T07:41:34.423Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSXRtRmtBTFdINzVqT1VkdVpTME16ZysvSEFrMEtqRDRCc2k3WG5aYWRTQVZEUDlyYlUzdHFUaXpUS2VpL1hOZ1Q3dktZL2ZhYm44akNGOXN5V1lkRlV5bkpkVWY3M3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk1NjgyCWZpbGU6TWVjaE5vZGVfMC4yLjBfeDY0LXNldHVwLmV4ZQpyeFFhdHBMV1NWcEZhZHJaa3pSZ0V4Y0Jxc3ZtZUR4bjM2dTBXdEJsSndBRkJFUEVLMzJmSlZmSy9WWDJSa2dCT2xGT3JQVmhaUFA4QjBzdEo2QitCUT09Cg==",
+      "url": "https://github.com/sckim-ai/MechNode-releases/releases/download/v0.2.0/MechNode_0.2.0_x64-setup.exe"
+    }
+  }
+}
